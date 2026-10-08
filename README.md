@@ -1,4 +1,4 @@
-feat: modification distante  du readme vargas
+feat: modification locale du readme vargas
 
 # ⚡ GITFOLIO
 
